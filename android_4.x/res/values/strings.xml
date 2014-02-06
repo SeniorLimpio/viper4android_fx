@@ -6,10 +6,12 @@
     <string name="headset_title">Headset</string>
     <string name="speaker_title">Phone Speaker</string>
     <string name="bluetooth_title">Bluetooth Device</string>
+    <string name="usb_title">USB/Dock</string>
     <string name="audio_effects">Audio Effects</string>
     <string name="dsp_settings_headset">Effect Settings - Headset</string>
     <string name="dsp_settings_speaker">Effect Settings - Phone Speaker</string>
     <string name="dsp_settings_bluetooth">Effect Settings - Bluetooth Device</string>
+    <string name="dsp_settings_usb">Effect Settings - USB Device</string>
     <string name="pref_dsp_enable">Enable</string>
     <string name="pref_effect_title">Select Effect Strength</string>
     <string name="dialog_effect">Effect Strength</string>
@@ -138,6 +140,7 @@
     <string name="text_headset">Headset</string>
     <string name="text_bluetooth">Bluetooth</string>
     <string name="text_speaker">Speaker</string>
+    <string name="text_usb">USB/Dock</string>
     <string name="text_showtrayicon">Show Notification</string>
     <string name="text_hidetrayicon">Hide Notification</string>
     <string name="text_lockeffect">Lock Effect Mode</string>
@@ -147,6 +150,7 @@
     <string name="text_abnormal">Abnormal</string>
     <string name="text_effectprofile">Effect Profile</string>
     <string name="text_loadfxprofile">Load Effect Profile</string>
+    <string name="text_newfxprofile">New Effect Profile&#8230;</string>
     <string name="text_savefxprofile">Save Effect Profile</string>
     <string name="text_pleaseinputname">Please input the name of profile
 \nDo not include \'=\'</string>
@@ -200,7 +204,7 @@
 \n\'ViPER4Android.apk\' is the control panel of ViPER4Android.
 \nBased on some code of Cyanogenmod\'s DSPManager.
 \n
-\nVersion %1$s (FX), Codename "Beautiful".
+\nVersion %1$s (FX), Codename &#8220;Beautiful&#8221;.
 \n</string>
     <string name="text_help_content">***General help***
 \n
@@ -222,4 +226,9 @@
     <string name="text_checkupdate">Check Update</string>
     <string name="text_updatelink">http://vipersaudio.com/swupdate/viper4android/download.html</string>
 
+    <!-- Drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_toggle_drawer">Switch to Drawer view</string>
+    <string name="navigation_toggle_tabbed">Switch to Tab view</string>
 </resources>
